@@ -1,4 +1,4 @@
-# Project Problem Statement: Helping IPL Mumbai Indians Win with Data
+# Helping IPL Mumbai Indians Win with Data
 
 ---
 
